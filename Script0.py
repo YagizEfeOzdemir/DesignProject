@@ -1,1 +1,1 @@
-print("Cruel World")
+print("Sa Beyler Not Var mı")
