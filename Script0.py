@@ -1,3 +1,4 @@
 print("Sa Beyler Not Var mı")
 
-printf("Dostum not istemek için yanlış kromozom dizilimine sahipsin")
+print("Dostum not istemek için yanlış kromozom dizilimine sahipsin")
+print("printf mi kaldı be ")
